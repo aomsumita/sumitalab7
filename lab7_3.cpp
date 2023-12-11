@@ -17,3 +17,6 @@ int main(){
 	cout << before('c') << "\n";
 	return 0;
 }
+
+
+//ให้ใช้ return
